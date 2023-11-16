@@ -1,5 +1,5 @@
 # Womanium Quantum Project
 
-![image](womanium final badge.png)
+![image](womanium_final_badge.png)
 
 Welcome to my Womanium Global Quantum Project! Within the framework of this far-reaching initiative, I have meticulously curated self-directed educational resources tailored to facilitate an in-depth grasp of the foundational concepts of quantum computing using Qiskit. By harnessing the power of Jupyter notebooks, this instructional module serves to elucidate the intricate components of a quantum circuit, encompassing an exploration of quantum gates along with their types, and an exploration of state vectors in theoretical dimensions. Moreover, it affords an immersive platform for hands-on learning through the integration of code blocks, leveraging the advantageous capabilities inherent in Jupyter. It is imperative to note that this endeavor remains a dynamic work-in-progress, poised to encompass a myriad of forthcoming subjects in the days to come. Until then, I encourage you to derive enrichment from the currently accessible notebooks.
